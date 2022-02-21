@@ -3211,6 +3211,7 @@ input, select, textarea {
 		color: #eeeeee;
 	}
 
+
 /* Wrapper */
 
 	#wrapper {
@@ -3485,6 +3486,9 @@ input, select, textarea {
 					display: none;
 				}
 
+				
+				
+
 		}
 
 /* Header */
@@ -3751,6 +3755,11 @@ input, select, textarea {
 		}
 
 /* Main */
+
+.homeButtons li{
+	margin: 0 auto !important;
+	
+}
 
 	#main {
 		background-color: #ffffff;
