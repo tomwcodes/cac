@@ -3477,9 +3477,11 @@ input, select, textarea {
 				}
 
 				#intro p {
-					font-size: 1rem;
+					font-size: 1.2rem;
 					margin-top: 0rem;
+					margin-bottom: 15rem;
 				}
+
 
 				#intro .actions {
 					display: none;
