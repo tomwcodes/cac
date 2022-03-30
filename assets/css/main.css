@@ -3232,18 +3232,11 @@ input, select, textarea {
 			height: 100%;
 			opacity: 0.4;
 			background-image: url("/images/stadiumHero.jpg");
-			background-size: auto;
-			background-position: center top;
-			background-repeat: repeat;
 			background-attachment: scroll;
+			background-position: top center;
+			background-repeat: repeat;
 			z-index: -1;
 		}
-
-			#wrapper > .bg.fixed {
-				position: fixed;
-				width: 100vw;
-				height: 100vh;
-			}
 
 		#wrapper.fade-in:before {
 			pointer-events: none;
@@ -3479,7 +3472,7 @@ input, select, textarea {
 				#intro p {
 					font-size: 1.2rem;
 					margin-top: 0rem;
-					margin-bottom: 15rem;
+					margin-bottom: 20rem;
 				}
 
 
