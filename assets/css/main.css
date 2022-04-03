@@ -3233,7 +3233,7 @@ input, select, textarea {
 			opacity: 0.4;
 			background-image: url("/images/pitches.jpg");
 			background-attachment: scroll;
-			background-position: center;
+			background-position: top;
 			background-repeat: repeat;
 			z-index: -1;
 		}
