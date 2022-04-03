@@ -3233,7 +3233,7 @@ input, select, textarea {
 			opacity: 0.4;
 			background-image: url("/images/stadiumHero.jpg");
 			background-attachment: scroll;
-			background-position: top center;
+			background-position: center;
 			background-repeat: repeat;
 			z-index: -1;
 		}
