@@ -3234,7 +3234,7 @@ input, select, textarea {
 			background-image: url("/images/stadium3.jpg");
 			background-attachment: scroll;
 			background-position:top center;
-			background-repeat: repeat;
+			background-repeat:no-repeat;
 			z-index: -1;
 		}
 
